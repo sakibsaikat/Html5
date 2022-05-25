@@ -1,0 +1,11 @@
+table,th,td,tr{
+    border: 1px solid crimson;
+    border-collapse: collapse;
+}
+
+th,td{
+    padding: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: crimson;
+}
